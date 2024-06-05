@@ -1,0 +1,47 @@
+{
+    "update.showReleaseNotes": false,
+
+    "workbench.tips.enabled": false,
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.startupEditor": "newUntitledFile",
+
+    "explorer.compactFolders": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontSize": 16,
+    "editor.hover.enabled": false,
+    "editor.lightbulb.enabled": "off",
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-_=+[{]}\\|;:'\",.<>/?",
+
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.profiles.osx": {
+        "Bash": {
+            "path": "/usr/local/bin/bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.osx": "Bash",
+
+    "git.autofetch": true,
+    "git.autofetchPeriod": 30,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.rebaseWhenSync": true,
+
+    "extensions.ignoreRecommendations": true,
+    "editor.wordWrap": "on",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+    "editor.accessibilitySupport": "off",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.openRepositoryInParentFolders": "always",
+  }

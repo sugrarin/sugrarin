@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'Font';
+  src: url(/assets/fonts/font.woff2);
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+
+}
+
+@media(prefers-color-scheme: dark) {
+  :root {
+
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+html {
+  /* make 1rem == 10px */
+  font-size: 62.5%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+h1, h2, h3. h4, h5 {
+  font-weight: bold;
+  line-height: 110%;
+}
+
+p {
+  font-size: 19px;
+  line-height: 140%;
+}
+
+a {
+  color: inherit;
+  transition-duration: var(0.2s);
+  transition-timing-function: ease-out;
+}
+
+.grid-3 {
+  display: grid;
+  grid: auto-flow / 1fr 1fr 1fr;
+  gap: 16px;
+}
+
+.grid-2 {
+  display: grid;
+  grid: auto-flow / 1fr 1fr;
+  gap: 16px;
+}

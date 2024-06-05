@@ -1,0 +1,10 @@
+{
+	"font_size": 16,
+	"tab_size": 2,
+	"word_wrap": true,
+	"caret_style": "solid",
+	"caret_extra_top": 2,
+	"caret_extra_bottom": 2,
+	"caret_extra_width": 2,
+	"ignored_packages": ["Vintage"]
+}
