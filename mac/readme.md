@@ -2,10 +2,10 @@
 
 ### Device Control
 - [Karabiner Elements](https://karabiner-elements.pqrs.org) `/karabiner`
-- [AlDente](https://apphousekitchen.com)
+- [AlDente](https://apphousekitchen.com) / [BatFi](https://micropixels.software/apps/batfi)
 - [Macs Fan Control](https://crystalidea.com/macs-fan-control)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl)
-- [Mos](https://mos.caldis.me)
+- [Mac Mouse Fix](https://macmousefix.com)
 
 ### Design
 - [Figma](https://figma.com/downloads)
