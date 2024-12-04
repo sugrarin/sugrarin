@@ -1,17 +1,21 @@
 # Wireguard
 
-1. Buy a server.
+Nyr/wireguard-install
 
-2. Connect to the server with ssh.
-
-3. Go to duckdns.org and create a record for your IP (1).
-
-4. Use this script by [@notthebee](https://github.com/notthebee/):
+https://github.com/Nyr/wireguard-install
 
 `
-wget https://notthebe.ee/vpn -O bootstrap.sh && bash bootstrap.sh
+wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
 `
 
-5. Read what you will see.
+Сделать скрипт исполняемым:
 
-6. Use `wg.[username].duckdns.org` for managing tunnels.
+`
+chmod +x wireguard-install.sh
+`
+
+И после этого управление идёт просто через запуск скрипта: 
+
+`
+./wireguard-install.sh
+`
